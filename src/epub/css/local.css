@@ -6,7 +6,7 @@ b{
 	font-weight: normal;
 }
 
-.epochbegin,.epochend,.sectionend{
+.epochbegin, .epochend, .sectionend{
 	font-variant: small-caps;
 	text-align: center;
 }
