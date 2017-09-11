@@ -20,9 +20,19 @@ b{
 	text-align: center;
 }
 
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
 .sectionend{
 	font-variant: small-caps;
 	text-align: center;
+}
+
+[epub|type~="z3998:diary-entry"]{
+	margin-left: 0;
+	margin-right: 0;
 }
 
 [epub|type~="z3998:letter"]{
@@ -54,10 +64,6 @@ section[epub|type~="dedication"] p{
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
-	font-variant: small-caps;
-}
-
-.signature{
 	font-variant: small-caps;
 }
 
