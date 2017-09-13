@@ -10,11 +10,6 @@ b{
 	font-weight: normal;
 }
 
-.epochbegin{
-	font-variant: small-caps;
-	text-align: center;
-}
-
 .epochend{
 	font-variant: small-caps;
 	text-align: center;
@@ -52,6 +47,10 @@ footer{
 [epub|type~="z3998:sender"]{
 	font-variant: small-caps;
 	text-align: right;
+}
+
+h5{
+	font-size: .83em;
 }
 
 section[epub|type~="dedication"] p{
