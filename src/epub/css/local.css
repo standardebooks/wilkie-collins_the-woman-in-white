@@ -36,7 +36,7 @@ footer{
 	margin-right: 0;
 }
 
-[epub|type~="z3998:letter"]{
+#chapter-9-1 [epub|type~="z3998:letter"]{
 	margin-left: 0;
 	margin-right: 0;
 }
