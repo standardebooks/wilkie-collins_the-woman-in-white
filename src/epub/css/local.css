@@ -1,15 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-abbr.name{
-	white-space: nowrap;
-}
-
-b{
-	font-variant: small-caps;
-	font-weight: normal;
-}
-
 .signature{
 	font-variant: small-caps;
 }
@@ -56,12 +47,12 @@ footer{
 }
 
 header{
+	font-variant: small-caps;
 	margin-top: 3em;
 }
 
-header p{
-	text-align: center;
-	font-variant: small-caps;
+[epub|type~="z3998:diary"] h4 ~ header{
+	margin-bottom: 1em;
 }
 
 section[epub|type~="dedication"] p{
