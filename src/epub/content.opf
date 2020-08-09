@@ -73,7 +73,7 @@
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Woman_in_White</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/wilkie-collins_the-woman-in-white</meta>
 		<dc:creator id="author">Wilkie Collins</dc:creator>
-		<meta property="file-as" refines="#author">Collins, William</meta>
+		<meta property="file-as" refines="#author">Collins, Wilkie</meta>
 		<meta property="se:name.person.full-name" refines="#author">William Wilkie Collins</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Wilkie_Collins</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79061084</meta>
