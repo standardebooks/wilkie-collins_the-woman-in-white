@@ -66,4 +66,5 @@ section[epub|type~="dedication"] p{
 	font-variant: small-caps;
 	margin: 1em auto;
 	text-align: center;
+	text-indent: 0;
 }
