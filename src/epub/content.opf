@@ -77,7 +77,7 @@
 		<dc:source>https://archive.org/details/157028180.1846.emory.edu</dc:source>
 		<meta property="se:word-count">249606</meta>
 		<meta property="se:reading-ease.flesch">69.82</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Woman_in_White</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Woman_in_White_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/wilkie-collins_the-woman-in-white</meta>
 		<dc:creator id="author">Wilkie Collins</dc:creator>
 		<meta property="file-as" refines="#author">Collins, Wilkie</meta>
