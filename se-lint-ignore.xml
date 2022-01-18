@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-1-1-1.xhtml">
+		<ignore>
+			<code>s-021</code>
+			<reason>Title is correct for the section.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-2-1.xhtml">
+		<ignore>
+			<code>s-021</code>
+			<reason>Title is correct for the section.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-3-1.xhtml">
+		<ignore>
+			<code>s-021</code>
+			<reason>Title is correct for the section.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-1-1.xhtml">
+		<ignore>
+			<code>s-021</code>
+			<reason>Title is correct for the section.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-2-3-1.xhtml">
+		<ignore>
+			<code>s-021</code>
+			<reason>Title is correct for the section.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-3-1-1.xhtml">
+		<ignore>
+			<code>s-021</code>
+			<reason>Title is correct for the section.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-3-3-1.xhtml">
+		<ignore>
+			<code>s-021</code>
+			<reason>Title is correct for the section.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-3-5-1.xhtml">
+		<ignore>
+			<code>s-021</code>
+			<reason>Title is correct for the section.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
