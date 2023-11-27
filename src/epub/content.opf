@@ -75,7 +75,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/583</dc:source>
 		<dc:source>https://archive.org/details/157028180.1846.emory.edu</dc:source>
-		<meta property="se:word-count">249611</meta>
+		<meta property="se:word-count">249621</meta>
 		<meta property="se:reading-ease.flesch">69.82</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Woman_in_White_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/wilkie-collins_the-woman-in-white</meta>
