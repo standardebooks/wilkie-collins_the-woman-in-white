@@ -68,6 +68,12 @@
 		<meta property="group-position" refines="#collection-2">33</meta>
 		<meta id="collection-3" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
+		<meta id="collection-4" property="belongs-to-collection">The Crime Writers’ Association Top 100 Crime Novels of All Time</meta>
+		<meta property="collection-type" refines="#collection-4">set</meta>
+		<meta property="group-position" refines="#collection-4">28</meta>
+		<meta id="collection-5" property="belongs-to-collection">Mystery Writers of America Top 100 Mysteries of All Time</meta>
+		<meta property="collection-type" refines="#collection-5">set</meta>
+		<meta property="group-position" refines="#collection-5">25</meta>
 		<dc:description id="description">A young drawing teacher falls in love with his aristocratic pupil, who falls victim to a devious plot to acquire her considerable fortune.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Woman in White&lt;/i&gt; tells the story of Walter Hartright, a young and impoverished drawing teacher who falls in love with his aristocratic pupil, Laura Fairlie. He cannot hope to marry her, however, and she is married off against her will to a baronet, Sir Percival Glyde, who is seeking her fortune. The terms of her marriage settlement prevent Glyde accessing her money while she lives, so together with his deceptively charming and cunning friend, Count Fosco, they hatch an unscrupulous deception to do so nonetheless. In an early 19th Century version of “identity theft,” they contrive to fake Laura’s death and confine her to a mental asylum. Their plot is eventually uncovered and exposed by Hartright with the help of Laura’s resourceful half-sister, Marian Halcombe.&lt;/p&gt;
