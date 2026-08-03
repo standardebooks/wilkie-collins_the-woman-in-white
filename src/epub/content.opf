@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/wilkie-collins/the-woman-in-white</dc:identifier>
 		<dc:date>2017-09-18T22:59:38Z</dc:date>
@@ -78,11 +78,11 @@
 		<meta id="collection-6" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-6">set</meta>
 		<meta property="group-position" refines="#collection-6">23</meta>
-		<dc:description id="description">A young drawing teacher falls in love with his aristocratic pupil, who falls victim to a devious plot to acquire her considerable fortune.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young drawing teacher falls in love with his aristocratic pupil, who falls victim to a devious plot to acquire her considerable fortune.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Woman in White&lt;/i&gt; tells the story of Walter Hartright, a young and impoverished drawing teacher who falls in love with his aristocratic pupil, Laura Fairlie. He cannot hope to marry her, however, and she is married off against her will to a baronet, Sir Percival Glyde, who is seeking her fortune. The terms of her marriage settlement prevent Glyde accessing her money while she lives, so together with his deceptively charming and cunning friend, Count Fosco, they hatch an unscrupulous deception to do so nonetheless. In an early 19th Century version of “identity theft,” they contrive to fake Laura’s death and confine her to a mental asylum. Their plot is eventually uncovered and exposed by Hartright with the help of Laura’s resourceful half-sister, Marian Halcombe.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Woman in White&lt;/i&gt; was the most popular of &lt;a href="https://standardebooks.org/ebooks/wilkie-collins"&gt;Wilkie Collins’&lt;/a&gt; novels in the genre then known as “sensation fiction.” It has never been out of print and is frequently included in lists of the best novels of all time. Published initially in serial form in 1859–60, it achieved an early and remarkable following, probably because of the strength of its characters, in particular the smooth and charming but utterly wicked villain Count Fosco, and the intelligent and steadfast Marian Halcombe opposed to him.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/583</dc:source>
 		<dc:source>https://archive.org/details/157028180.1846.emory.edu</dc:source>
