@@ -103,7 +103,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">James Abbott McNeill Whistler</dc:contributor>
 		<meta property="file-as" refines="#artist">Whistler, James Abbott McNeill</meta>
-		<link href="https://en.wikipedia.org/wiki/James_Abbott_McNeill_Whistler" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/James_McNeill_Whistler" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79032293.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="producer-1">David Grigg</dc:contributor>
